@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/redux_cart/static/css/main.461a0194.chunk.css",
+    "main.js": "/redux_cart/static/js/main.3ef0be26.chunk.js",
+    "main.js.map": "/redux_cart/static/js/main.3ef0be26.chunk.js.map",
+    "runtime-main.js": "/redux_cart/static/js/runtime-main.a2070894.js",
+    "runtime-main.js.map": "/redux_cart/static/js/runtime-main.a2070894.js.map",
+    "static/css/2.788c496a.chunk.css": "/redux_cart/static/css/2.788c496a.chunk.css",
+    "static/js/2.9f757807.chunk.js": "/redux_cart/static/js/2.9f757807.chunk.js",
+    "static/js/2.9f757807.chunk.js.map": "/redux_cart/static/js/2.9f757807.chunk.js.map",
+    "index.html": "/redux_cart/index.html",
+    "precache-manifest.f88fc0cc40997714be12cb9afd127078.js": "/redux_cart/precache-manifest.f88fc0cc40997714be12cb9afd127078.js",
+    "service-worker.js": "/redux_cart/service-worker.js",
+    "static/css/2.788c496a.chunk.css.map": "/redux_cart/static/css/2.788c496a.chunk.css.map",
+    "static/css/main.461a0194.chunk.css.map": "/redux_cart/static/css/main.461a0194.chunk.css.map",
+    "static/media/semantic.min.css": "/redux_cart/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2070894.js",
+    "static/css/2.788c496a.chunk.css",
+    "static/js/2.9f757807.chunk.js",
+    "static/css/main.461a0194.chunk.css",
+    "static/js/main.3ef0be26.chunk.js"
+  ]
+}
